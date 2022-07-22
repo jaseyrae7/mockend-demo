@@ -7,24 +7,50 @@
          }
       },
       "requester":{
-         "string":{
-            
-         }
+         "string":[
+            "Jelena",
+            "Marija",
+            "Dragan",
+            "Andrija",
+            "Marina",
+            "Maja",
+            "Aleksandra",
+            "Radica",
+            "Jovan",
+            "Milos",
+            "Sever",
+            "Nina"
+         ]
       },
       "agent":{
-         "string":{
-            
-         }
+         "string":[
+            "Jelena",
+            "Marija",
+            "Dragan",
+            "Andrija",
+            "Marina",
+            "Maja",
+            "Aleksandra",
+            "Radica",
+            "Jovan",
+            "Milos",
+            "Sever",
+            "Nina"
+         ]
       },
       "insuranceItem":{
-         "string":{
-            
-         }
+         "string":[
+            "Car",
+            "House",
+            "Health",
+            "Jewelry",
+            "Travel"
+         ]
       },
       "price":{
          "int":{
             "min":0,
-            "max": 100000000
+            "max":100000000
          }
       }
    }
