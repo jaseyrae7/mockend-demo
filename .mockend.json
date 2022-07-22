@@ -1,0 +1,29 @@
+{
+   "Policy":{
+      "created":{
+         "dateTime":{
+            
+         }
+      },
+      "requester":{
+         "string":{
+            
+         }
+      },
+      "agent":{
+         "string":{
+            
+         }
+      },
+      "insuranceItem":{
+         "string":{
+            
+         }
+      },
+      "price":{
+         "int":{
+            "min":0
+         }
+      }
+   }
+}
